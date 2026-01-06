@@ -13,3 +13,7 @@ This is a description under the purpose header.
 This is a description under Deployment
 
 ## How to Contribute
+
+### Copyright 
+
+2026 Copyright training
