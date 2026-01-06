@@ -6,6 +6,10 @@ This is a simple website project for showing how to use Git and Github
 This is description under introduction.
 ## Purpose
 
+This is a description under the purpose header.
+
 ##Deployment
+
+This is a description under Deployment
 
 ## How to Contribute
